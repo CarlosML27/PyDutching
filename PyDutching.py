@@ -1,5 +1,5 @@
 '''
-    PyDutch v0.1
+    PyDutching v0.1
 
     Copyright 2017 Carlos Morente Lozano (@CarlosML27)
 
